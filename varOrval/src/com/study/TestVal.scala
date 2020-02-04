@@ -53,4 +53,8 @@ object TestVal {
   def add(m: Int): Int = m + 1
 
   def four: Int = 4
+
+  def four1(): Int = {
+    return 4
+  }
 }

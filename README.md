@@ -9,3 +9,6 @@ scala的变量和函数相关。
 ## 3.[scala类-单例对象-特质](https://blog.csdn.net/a18792721831/article/details/103243552)
 scala简单学习scala类、单例对象以及特质  
 ![alt scala类-单例对象-特质](images/scala类-单例对象-特质.png)
+## 4.[scala中缀与后缀](https://blog.csdn.net/a18792721831/article/details/104229259)
+scala的中缀与后缀如何写，如何实现  
+![alt scala中缀与后缀](images/scala中缀与后缀.png)

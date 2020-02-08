@@ -17,7 +17,7 @@ object MyTest{
   def main(args: Array[String]): Unit = {
     val myTest = new MyTest()
     println(myTest)
-    myTest.id = 1
+    myTest.id = 1L
     myTest.name = "lili"
     myTest.age = 234
     println(myTest)

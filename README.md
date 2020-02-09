@@ -12,3 +12,6 @@ scala简单学习scala类、单例对象以及特质
 ## 4.[scala中缀与后缀](https://blog.csdn.net/a18792721831/article/details/104229259)
 scala的中缀与后缀如何写，如何实现  
 ![alt scala中缀与后缀](images/scala中缀与后缀.png)
+## 5.[scala中的for](https://blog.csdn.net/a18792721831/article/details/104235618)
+scala中的for循环与switch  
+![alt scala中的for](images/scala中的for.png)

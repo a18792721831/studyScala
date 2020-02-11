@@ -15,3 +15,6 @@ scala的中缀与后缀如何写，如何实现
 ## 5.[scala中的for](https://blog.csdn.net/a18792721831/article/details/104235618)
 scala中的for循环与switch  
 ![alt scala中的for](images/scala中的for.png)
+## 6.[scala模式匹配](https://blog.csdn.net/a18792721831/article/details/104267487)
+scala常用的模式匹配  
+![alt scala模式匹配](images/scala模式匹配.png)
